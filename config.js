@@ -45,17 +45,17 @@ global.psaweria = 'https://saweria.co/FangzBot' //Saweria
 global.donate = '〔 Dᴏɴᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕\n\n››╭─〘 *Donasi* 〙\n╭╡📮: Donasi ngab jangan make │bot doang.\n┝‷✧ *Ovo:* 085288342187\n│┝‷✧ *Dana:* 085288342187\n│┝‷✧ *Gopay:* 085288342187\n│╰───···─────\n│⁺◛˖ Ingin Donasi? Chat nomor owner\n╰──────────···───╮'
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '6285288342187' //Nomor Bot mu
-global.namebot = 'SY BOT' //Nama bot mu
-global.nameown = 'Rann Ganz' //Nama mu
+global.nomorbot = '254794110821' //Nomor Bot mu
+global.namebot = 'NESH BOT' //Nama bot mu
+global.nameown = 'NESH' //Nama mu
 
 /*⫘⫘⫘⫘GLOBAL FUNCTION⫘⫘⫘⫘⫘*/
 //KALAU MAGER EDIT, MENDING GAUSAH DI APA² IN. SAMA AJA//
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰' //Gausah di apa² in
 global.after = 'Bot by https://bit.ly/3QJOy9F'
 global.swo = 'https://wa.me/6285288342187'
-global.author = '                © Rann25' //Wm author
-global.botintro = 'Hallo, Kenalin saya SYNC BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *SYNC* Saya di rilis pada tanggal\n🗓 ️_16/04/2022_'
+global.author = '                © NESH59' //Wm author
+global.botintro = 'Hallo, Kenalin saya NESH BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *SYNC* Saya di rilis pada tanggal\n🗓 ️_16/04/2022_'
 global.sallam = '💬 Waalaikumsallam'
 global.serialimg = 'https://telegra.ph/file/eaf30ca57d5c4c2d7a6f0.jpg'
 global.jlimit = 'https://telegra.ph/file/449ce1a72312c8fcb99f6.jpg'
@@ -63,10 +63,10 @@ global.thumbEror = 'https://telegra.ph/file/430b8f1ae35c655bfee93.jpg'
 global.thumbnailCuaca = 'https://telegra.ph/file/636af9d2fb8194f4dbb94.jpg'
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
-  ['6285288342187'], //Owner1
-  ['6285288342187'], //Owner2
-  ['6285288342187', '𝑺𝒚𝒏𝒄 ! 🥶', true] //Ini buat kamu!
-  // [number, dia creator/owner?, dia developer?]
+  ['254794110821'], //Owner1
+  ['254794110821'], //Owner2
+  ['25490627796', '𝑺𝒚𝒏𝒄 ! 🥶', true] //Ini buat kamu!
+  // [254794110821, NESH, NESH MULLAH]
 ] // Put your number here
 global.mods = [] // Want some help?
 global.cheat = [] // ketik .cheat aja
@@ -124,9 +124,9 @@ global.xckey = 'BOhjM2hUVn'
 
 /*⫘⫘⫘⫘ WATERMAK ⫘⫘⫘⫘⫘*/
 //GANTI JANGAN NGASAL.
-global.wm = '       「 赤 SYNC - BOT ⁩இ 」' //Wm
-global.wm2 = '➳༻❀SYNC - Ganz❁ུ۪۪.;:୭̥.' //Name Wm
-global.wm3 = '赤 SYNC - BOT'
+global.wm = '       「 赤 NESH - BOT ⁩இ 」' //Wm
+global.wm2 = '➳༻❀NESH - Ganz❁ུ۪۪.;:୭̥.' //Name Wm
+global.wm3 = '赤 NESH - BOT'
 global.hiasan = '꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦'
 global.botdate = `🗓️️ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗪𝗔𝗞𝗧𝗨 : ${wib}`
@@ -453,7 +453,7 @@ global.fsizedoc = '99999999999999' // 10TB
 global.fpagedoc = '999' //Gausah di ganti.
 
 /*⫘⫘⫘⫘ BIO OWNER ⫘⫘⫘⫘⫘*/
-global.nameowner = 'RANN25'
+global.nameowner = 'NESH59'
 global.umurowner = '15'
 global.asalowner = 'Yogyakarta, Jawa tengah'
 global.nomorowner = 'https://wa.me/6285288342187'
@@ -643,7 +643,7 @@ global.fpayment = (m) => {
 		key: {
 		remoteJid: '0@s.whatsapp.net',
 		fromMe: false,
-		id: 'Rann25',
+		id: 'NESH',
 		participant: '0@s.whatsapp.net'
 	},
 	message: {
